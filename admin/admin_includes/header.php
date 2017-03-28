@@ -25,7 +25,7 @@
                                             <a href="index.php?p=news"><i class="fa fa-newspaper-o fa-fw"></i> Nyheder</a>
                                         </li>
                                         <li>
-                                            <a href="index.php?p=slider"><i class="fa fa-user fa-fw"></i> Personale</a>
+                                            <a href="index.php?p=employees"><i class="fa fa-user fa-fw"></i> Personale</a>
                                         </li>
                                         <li>
                                             <a href="index.php?p=mainContent"><i class="fa fa-file-text fa-fw"></i> Sider</a>

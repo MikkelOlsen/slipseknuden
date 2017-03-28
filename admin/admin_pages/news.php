@@ -65,7 +65,7 @@
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
                                         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#edit'.$row['newsID'].'">
-                                        Edit Product
+                                        Rediger Nyhed
                                     </button>
                                     </div>
                                 </div>
